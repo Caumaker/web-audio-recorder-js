@@ -1,11 +1,11 @@
 {
-  "name": "web-audio-recorder-js",
+  "name": "web-audio-recorder-js-edit",
   "version": "0.0.2",
   "description": "WebAudioRecorder.js is a JavaScript library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object). It supports three encoding formats.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shikuntian/web-audio-recorder-js.git"
+    "url": "git+https://github.com/shikuntian/web-audio-recorder-js-edit.git"
   },
   "keywords": [
     "web",
